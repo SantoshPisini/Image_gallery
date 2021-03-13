@@ -1,16 +1,18 @@
-# ui
+# Image_gallery
 
-A new Flutter application to learn UI design and animations.
+Image gallery app built with flutter.
 
-## Getting Started
+## Video
+[![](https://img.youtube.com/vi/PKxXKNjtSzQ/0.jpg)](https://www.youtube.com/watch?v=PKxXKNjtSzQ)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Attributions
+-     https://www.pexels.com/photo/first-perspective-photography-of-hanging-bridge-1761279
+-     https://www.pexels.com/photo/photography-of-asphalt-road-near-trees-775203
+-     https://www.pexels.com/photo/landscape-photography-of-snowy-mountain-1366919
+-     https://www.pexels.com/photo/silhouette-of-trees-during-golden-hour-1921336
+-     https://www.pexels.com/photo/mountain-and-trees-reflection-1097491
+-     https://www.pexels.com/photo/photography-of-waterfalls-between-trees-788200
+-     https://www.pexels.com/photo/green-grass-field-1743165
+-     https://www.pexels.com/photo/photography-of-body-of-water-and-mountains-1544880
+-     https://www.pexels.com/photo/scenic-view-of-mountain-1666021
